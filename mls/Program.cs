@@ -32,7 +32,7 @@ namespace mls
         }
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Anh Hoang Dep Trai");
+            System.Console.WriteLine("Anh Hoang Dep Trai version 02");
             int iLength = args.Length;
             if (iLength == 3 && args[0] == "find")
                 Find(args[1], args[2]);
