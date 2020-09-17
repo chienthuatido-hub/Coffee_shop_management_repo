@@ -5,6 +5,7 @@ namespace mls
 {
     class Program
     {
+        
         public static void Find(string sID, string sName)
         {
 
@@ -31,6 +32,7 @@ namespace mls
         }
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Anh Hoang Dep Trai");
             int iLength = args.Length;
             if (iLength == 3 && args[0] == "find")
                 Find(args[1], args[2]);
