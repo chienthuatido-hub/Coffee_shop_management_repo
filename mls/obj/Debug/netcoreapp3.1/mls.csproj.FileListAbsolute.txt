@@ -1,0 +1,13 @@
+D:\CodeSkill\19520216\mls\bin\Debug\netcoreapp3.1\mls.exe
+D:\CodeSkill\19520216\mls\bin\Debug\netcoreapp3.1\mls.deps.json
+D:\CodeSkill\19520216\mls\bin\Debug\netcoreapp3.1\mls.runtimeconfig.json
+D:\CodeSkill\19520216\mls\bin\Debug\netcoreapp3.1\mls.runtimeconfig.dev.json
+D:\CodeSkill\19520216\mls\bin\Debug\netcoreapp3.1\mls.dll
+D:\CodeSkill\19520216\mls\bin\Debug\netcoreapp3.1\mls.pdb
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.csprojAssemblyReference.cache
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.AssemblyInfoInputs.cache
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.AssemblyInfo.cs
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.csproj.CoreCompileInputs.cache
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.dll
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.pdb
+D:\CodeSkill\19520216\mls\obj\Debug\netcoreapp3.1\mls.genruntimeconfig.cache
